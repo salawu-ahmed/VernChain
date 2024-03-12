@@ -23,19 +23,19 @@ const Hero = () => {
 
         <div className="w-1/2 h-full flex relative mb-2 z-10">
           <div className="">
-            <img src="src/assets/Asset 13.png" alt="" />
+            <img src="/Asset 13.png" alt="" />
           </div>
           <div className="absolute bottom-0 right-0">
-            <img src="src/assets/Asset 11.png" alt="" />
+            <img src="/Asset 11.png" alt="" />
           </div>
         </div>
       </div>
 
       <div className="flex items-center justify-between bg-light-green p-4 rounded mx-auto max-w-6xl">
-        <img src="src/assets/Logo.png" alt="" />
-        <img src="src/assets/Logo (1).png" alt="hello" />
-        <img src="src/assets/Logo (2).png" alt="" />
-        <img src="src/assets/Logo (3).png" alt="" />
+        <img src="/Logo.png" alt="" />
+        <img src="/Logo (1).png" alt="hello" />
+        <img src="/Logo (2).png" alt="" />
+        <img src="/Logo (3).png" alt="" />
       </div>
     </div>
   );

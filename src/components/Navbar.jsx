@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="bg-primary-black sticky top-0 z-50">
       <div className="bg-primary-black flex justify-between items-center max-w-6xl mx-auto py-4">
         <div>
-          <img src="src/assets/logo.png" alt="/" />
+          <img src="/logo.png" alt="/" />
         </div>
           <ul className="flex gap-8 justify-between items-center text-white">
             <li>Home</li>

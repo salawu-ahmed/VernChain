@@ -4,42 +4,42 @@ const Services = () => {
   const services = [
     {
       id: 1,
-      image: "src/assets/Illustration 1.png",
+      image: "/Illustration 1.png",
       title: "Blockchain Development",
       description:
         "Lorem ipsum dolor sit amet consectetur. Aliquam id volutpat enim risus. Felis enim consectetur habitant mi nam nullam.",
     },
     {
       id: 2,
-      image: "src/assets/Illustration 2.png",
+      image: "/Illustration 2.png",
       title: "Smart Contract Development",
       description:
         "Lorem ipsum dolor sit amet consectetur. Aliquam id volutpat enim risus. Felis enim consectetur habitant mi nam nullam.",
     },
     {
       id: 3,
-      image: "src/assets/Illustration 3.png",
+      image: "/Illustration 3.png",
       title: "Tokenization Services",
       description:
         "Lorem ipsum dolor sit amet consectetur. Aliquam id volutpat enim risus. Felis enim consectetur habitant mi nam nullam.",
     },
     {
       id: 4,
-      image: "src/assets/Illustration 4.png",
+      image: "/Illustration 4.png",
       title: "Cryptocurrency Solutions",
       description:
         "Lorem ipsum dolor sit amet consectetur. Aliquam id volutpat enim risus. Felis enim consectetur habitant mi nam nullam.",
     },
     {
       id: 5,
-      image: "src/assets/Illustration 5.png",
+      image: "/Illustration 5.png",
       title: "Security and Compliance",
       description:
         "Lorem ipsum dolor sit amet consectetur. Aliquam id volutpat enim risus. Felis enim consectetur habitant mi nam nullam.",
     },
     {
       id: 6,
-      image: "src/assets/Illustration 6.png",
+      image: "/Illustration 6.png",
       title: "Tokenization Services",
       description:
         "Lorem ipsum dolor sit amet consectetur. Aliquam id volutpat enim risus. Felis enim consectetur habitant mi nam nullam.",

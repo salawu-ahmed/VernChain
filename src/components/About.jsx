@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div className="h-screen bg-primary-black flex items-center gap-16">
-      <img src="src/assets/Frame 29.png" alt="" />
+      <img src="/Frame 29.png" alt="" />
       <div className="w-1/2">
         <hgroup className="mb-8">
           <h1 className="text-light-green font-bold text-2xl mb-2">ABOUT US</h1>
