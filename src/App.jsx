@@ -12,7 +12,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Sponsor />
+      {/* <Sponsor /> */}
       <About/> 
     </>
   );

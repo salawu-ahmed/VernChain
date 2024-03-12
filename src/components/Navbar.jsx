@@ -7,16 +7,16 @@ const Navbar = () => {
         <div>
           <img src="src/assets/logo.png" alt="/" />
         </div>
-        <ul className="flex gap-8 justify-between items-center text-white">
-          <li>Home</li>
-          <li>About</li>
-          <li>Services</li>
-          <li>Price</li>
-          <li>News</li>
-        </ul>
-        <button className="text-light-green border border-light-green p-2 rounded-full">
-          Get Started
-        </button>
+          <ul className="flex gap-8 justify-between items-center text-white">
+            <li>Home</li>
+            <li>About</li>
+            <li>Services</li>
+            <li>Price</li>
+            <li>News</li>
+          </ul>
+          <button className="text-light-green border border-light-green p-2 rounded-full">
+            Get Started
+          </button>
       </div>
     </div>
   );
