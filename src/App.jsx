@@ -2,12 +2,18 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Sponsor from "./components/Sponsor";
+import About from "./components/About";
 
 function App() {
   return (
     <>
-      <h1 className="text-6xl font-bold underline text-yellow-500">Project Setup</h1>
-      <h2 className="font-bold text-blue-300">hello world</h2>
+      <Navbar />
+      <Hero />
+      <Sponsor />
+      {/* <About/>  */}
     </>
   );
 }
